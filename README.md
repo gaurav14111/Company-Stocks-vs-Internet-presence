@@ -1,2 +1,2 @@
-# Company-Stocks-vs-Internet-presence
-Project related to stock vs internet presence of the company
+# ElonMuskTweets
+This is a data analysis project that analyzes Elon Musk's tweet and $TSLA's stock price
