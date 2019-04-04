@@ -1,0 +1,151 @@
+Author,Date,Sentiment,Source,Title,ticker,Company Name,Compound Score,Positive Score,Negative Score,Neutral Score
+Market Watch,"Wed, 03 Apr 2019 20:17:52 -0400",Negative,Market Watch,Tesla falls short of expectations for first-quarter deliveries,['TSLA'],,0.0,0.0,1.0,0.0
+CNBC,"Wed, 03 Apr 2019 20:15:00 -0400",Negative,CNBC,"Tesla ships 63,000 vehicles in Q1, produced 77,100",['TSLA'],,0.0,0.0,1.0,0.0
+The Motley Fool,"Wed, 03 Apr 2019 20:10:00 -0400",Positive,The Motley Fool,After-Hours News: Resources Connection Reports Earnings,['TSLA'],,0.0,0.0,1.0,0.0
+The Motley Fool,"Wed, 03 Apr 2019 20:10:00 -0400",Positive,The Motley Fool,After-Hours News: Tesla Rolls Out Autopilot Feature,['TSLA'],,0.0,0.0,1.0,0.0
+Bloomberg Technology,"Wed, 03 Apr 2019 19:10:38 -0400",Positive,Bloomberg Technology,"Musk Appears More Stable and Seems to Have Turned the Corner, Tesla Analyst Ferragu Says",['TSLA'],,0.3597,0.151,0.849,0.0
+Benzinga,"Wed, 03 Apr 2019 16:21:13 -0400",Neutral,Benzinga,Researchers Trick Tesla Autopilot Using Stickers On The Road,['TSLA'],,-0.0516,0.0,0.87,0.13
+CNBC Television,"Wed, 03 Apr 2019 15:05:53 -0400",Positive,CNBC Television,These are LinkedIn's top companies to work for in 2019: Tesla,['TSLA'],,0.2023,0.153,0.847,0.0
+The Motley Fool,"Wed, 03 Apr 2019 14:01:00 -0400",Positive,The Motley Fool,Tesla Will Show Off a Computer for Autonomous Driving,['TSLA'],,0.0,0.0,1.0,0.0
+CNBC Television,"Wed, 03 Apr 2019 13:20:06 -0400",Positive,CNBC Television,Bulls on Tesla,['TSLA'],,0.0,0.0,1.0,0.0
+CNBC Television,"Wed, 03 Apr 2019 10:09:05 -0400",Neutral,CNBC Television,Tesla bull and bear debate the stock as Elon Musk faces off with SEC,['TSLA'],,0.0,0.0,1.0,0.0
+CNBC Television,"Wed, 03 Apr 2019 07:38:09 -0400",Neutral,CNBC Television,"Tesla preview: Musk in court, Q1 Model 3 delivery numbers",['TSLA'],,0.0,0.0,1.0,0.0
+CNBC,,Positive,CNBC,Cramer: Charts show why Tesla's stock could be set to rebound,['TSLA'],,0.0,0.0,1.0,0.0
+CNBC Television,,Neutral,CNBC Television,Here's what Tesla investors should watch ahead of Elon Musk's faceoff with the SEC this week,['TSLA'],,0.0,0.0,1.0,0.0
+Benzinga,,Negative,Benzinga,2 Key Technical Levels Tesla Investors Should Keep An Eye On,['TSLA'],,0.0,0.0,1.0,0.0
+The Motley Fool,,Neutral,The Motley Fool,Driverless Cars' Biggest Obstacle May Be Us. Here's Why.,"['GM', 'GOOG', 'GOOGL', 'LYFT', 'TSLA']",,-0.3612,0.0,0.762,0.238
+Zacks Investment Research,,Negative,Zacks Investment Research,Bear of the Day: Tesla (TSLA),['TSLA'],,0.0,0.0,1.0,0.0
+Investors Business Daily,,Negative,Investors Business Daily,U.S. Auto Sales: Slowdown,"['F', 'FCAU', 'GM', 'HMC', 'NIO', 'NSANY', 'TM', 'TSLA']",,0.0,0.0,1.0,0.0
+CNBC Television,,Negative,CNBC Television,"Judge may order Musk to step down as CEO, Oppenheimer analyst says",['TSLA'],,0.0,0.0,1.0,0.0
+Fox Business,,Negative,Fox Business,"Tesla's shipping challenges for Europe, China",['TSLA'],,0.0772,0.206,0.794,0.0
+CNBC Television,,Negative,CNBC Television,Hackers have found a way to trick Tesla's autopilot,['TSLA'],,-0.0516,0.0,0.854,0.146
+Bloomberg Technology,"Mon, 01 Apr 2019 19:16:33 -0400",Neutral,Bloomberg Technology,"Tesla Demand to Be a Lot Stronger in Second Half, Analyst Ives Says",['TSLA'],,0.2732,0.184,0.709,0.106
+The Motley Fool,"Mon, 01 Apr 2019 19:10:00 -0400",Positive,The Motley Fool,Tesla Stock: Headed to $450?,['TSLA'],,0.0,0.0,1.0,0.0
+Benzinga,"Mon, 01 Apr 2019 15:43:20 -0400",Neutral,Benzinga,A Snapshot Of Tesla's 'S3XY' Models,['TSLA'],,0.0,0.0,1.0,0.0
+CNBC Television,"Mon, 01 Apr 2019 14:39:30 -0400",Negative,CNBC Television,Auto sales see slowdown for first time since 2014,"['F', 'FCAU', 'GM', 'TM', 'TSLA']",,0.0,0.0,1.0,0.0
+Seeking Alpha,"Mon, 01 Apr 2019 13:35:42 -0400",Positive,Seeking Alpha,Tesla: Q1 Headwinds Could Create A Buying Opportunity,['TSLA'],,0.5994,0.495,0.505,0.0
+Seeking Alpha,"Mon, 01 Apr 2019 13:27:24 -0400",Negative,Seeking Alpha,5 Soft Reasons To Reconsider A Tesla Position,['TSLA'],,0.0,0.0,1.0,0.0
+CNBC,"Mon, 01 Apr 2019 09:00:00 -0400",Negative,CNBC,Auto sales projected to slow to lowest level in 5 years despite SUV and pickup demand,"['BMWYY', 'DMLRY', 'F', 'FCAU', 'GM', 'NSANY', 'RNLSY', 'TM', 'TSLA', 'VWAGY']",,-0.4767,0.0,0.76,0.24
+The Motley Fool,"Sun, 31 Mar 2019 14:06:00 -0400",Negative,The Motley Fool,Tesla's Vehicle Delivery Update: The Most Important Thing to Watch,['TSLA'],,0.2716,0.189,0.811,0.0
+The Motley Fool,"Sat, 30 Mar 2019 11:05:00 -0400",Neutral,The Motley Fool,How Many Vehicles Will Tesla Deliver in Q1?,['TSLA'],,0.0,0.0,1.0,0.0
+CNBC,"Fri, 29 Mar 2019 20:33:00 -0400",Negative,CNBC,"Tesla cars keep more data than you think, including this video of a crash that totaled a Model 3",['TSLA'],,-0.4019,0.0,0.847,0.153
+Market Watch,"Fri, 29 Mar 2019 14:15:59 -0400",Negative,Market Watch,"Tesla's price target, Model 3 expectations cut at Deutsche Bank",['TSLA'],,-0.2732,0.0,0.792,0.208
+Benzinga,"Fri, 29 Mar 2019 13:31:46 -0400",Negative,Benzinga,JPMorgan Cuts Tesla Price Target After Meeting With Management,['TSLA'],,-0.296,0.0,0.784,0.216
+Market Watch,"Fri, 29 Mar 2019 10:35:36 -0400",Negative,Market Watch,J.P Morgan gets more bearish on Tesla's stock on concerns over Model 3 delivery delays,['TSLA'],,0.0,0.0,1.0,0.0
+Seeking Alpha,,Positive,Seeking Alpha,Tesla's Growing GHG Credit Treasure Chest,['TSLA'],,0.6705,0.684,0.316,0.0
+Bloomberg Markets and Finance,,Neutral,Bloomberg Markets and Finance,Breaking Down China’s Electric Vehicle Market,"['BMWYY', 'DMLRY', 'F', 'FCAU', 'GM', 'HMC', 'NOK', 'NSANY', 'TSLA', 'VWAGY']",,0.0,0.0,1.0,0.0
+Yahoo Finance,"Wed, 27 Mar 2019 17:24:56 -0400",Positive,Yahoo Finance,Elon Musks sends another letter to employees about store closings,['TSLA'],,0.0,0.0,1.0,0.0
+CNBC Television,"Wed, 27 Mar 2019 16:51:00 -0400",Positive,CNBC Television,"Tesla's high-traffic stores will remain open, says Elon Musk",['TSLA'],,0.0,0.0,1.0,0.0
+The Street,"Wed, 27 Mar 2019 11:32:32 -0400",Negative,The Street,Jim Cramer's Thoughts on Tesla,['TSLA'],,0.0,0.0,1.0,0.0
+CNBC Television,"Wed, 27 Mar 2019 10:28:45 -0400",Negative,CNBC Television,"This court appearance might be a problem for Musk, says Jim Cramer",['TSLA'],,-0.4019,0.0,0.787,0.213
+CNBC Television,"Wed, 27 Mar 2019 08:14:10 -0400",Neutral,CNBC Television,"Final trades: Microsoft, Qualcomm, Apple, J.M. Smucker & short Tesla","['AAPL', 'MSFT', 'QCOM', 'SJM', 'TSLA']",,0.0,0.0,1.0,0.0
+CNBC,"Wed, 27 Mar 2019 08:08:00 -0400",Negative,CNBC,Fisker wants another shot at Tesla with a new Model Y fighter,['TSLA'],,0.1531,0.151,0.849,0.0
+CNBC Television,,Positive,CNBC Television,Judge dismisses shareholder suit against Tesla,['TSLA'],,0.0,0.0,1.0,0.0
+Forbes,,Negative,Forbes,Top Manager Says Don't Touch Tesla,['TSLA'],,0.2023,0.265,0.735,0.0
+Forbes,,Neutral,Forbes,Tesla Shares Remain Under Pressure As The Negative News Flow Continues,['TSLA'],,-0.5719,0.137,0.497,0.366
+Zacks Investment Research,"Mon, 25 Mar 2019 17:45:21 -0400",Negative,Zacks Investment Research,Tesla (TSLA) Dips More Than Broader Markets: What You Should Know,['TSLA'],,0.0,0.0,1.0,0.0
+Seeking Alpha,"Mon, 25 Mar 2019 16:23:42 -0400",Negative,Seeking Alpha,Tesla: The Final Countdown,['TSLA'],,0.0,0.0,1.0,0.0
+CNBC,"Mon, 25 Mar 2019 13:37:00 -0400",Positive,CNBC,"These 20-something hackers won $375,000 and a Model 3 for finding a Tesla bug",['TSLA'],,0.5719,0.27,0.73,0.0
+Yahoo Finance,"Mon, 25 Mar 2019 11:40:18 -0400",Positive,Yahoo Finance,Elon Musk tweets of Tesla price increase,['TSLA'],,0.3182,0.277,0.723,0.0
+Investor,"Mon, 25 Mar 2019 11:27:48 -0400",Negative,Investor,Tesla Stock Falls On Concerns Of Weakening Model 3 Demand,['TSLA'],,-0.4215,0.0,0.648,0.352
+Benzinga,"Mon, 25 Mar 2019 09:32:52 -0400",Negative,Benzinga,A Pair Of Analysts Cut Tesla Price Targets Ahead Of Q1 Deliveries,['TSLA'],,-0.2732,0.0,0.826,0.174
+CNET,"Wed, 03 Apr 2019 20:00:02 -0400",Positive,CNET,Alphabet City: Google Pixel & Stadia,"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+CNBC Television,"Wed, 03 Apr 2019 15:05:53 -0400",Positive,CNBC Television,These are LinkedIn's top companies to work for in 2019,"['AMZN', 'FB', 'GOOG', 'GOOGL']",,0.2023,0.167,0.833,0.0
+The Motley Fool,"Wed, 03 Apr 2019 11:15:00 -0400",Positive,The Motley Fool,Walmart and Google Are Teaming Up Against Amazon Over Groceries,"['GOOG', 'GOOGL']",,0.1779,0.159,0.841,0.0
+CNBC Television,"Wed, 03 Apr 2019 00:22:25 -0400",Positive,CNBC Television,Silicon Valley's 'zen master',"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+Bloomberg Technology,,Negative,Bloomberg Technology,YouTube Staff Let Toxic Videos Run Rampant,"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+CNBC,,Neutral,CNBC,YouTube reportedly considered a change that would have made Alex Jones among its highest-paid stars,"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+Yahoo Finance,,Positive,Yahoo Finance,Walmart and Google team up for voice activated shopping,"['GOOGL', 'WMT']",,0.0,0.0,1.0,0.0
+CNBC Television,,Positive,CNBC Television,Walmart customers can now order groceries with voice commands,"['GOOG', 'GOOGL', 'WMT']",,0.0,0.0,1.0,0.0
+The Motley Fool,,Neutral,The Motley Fool,Driverless Cars' Biggest Obstacle May Be Us. Here's Why.,"['GM', 'GOOG', 'GOOGL', 'LYFT', 'TSLA']",,-0.3612,0.0,0.762,0.238
+Fox Business,,Positive,Fox Business,Trump meets with Google CEO Sundar Pichai to discuss ‘political fairness’,"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+Zacks Investment Research,,Positive,Zacks Investment Research,"Google Updates Gmail, Bolsters E-mail Client Space Reach","['GOOG', 'GOOGL']",,0.0258,0.136,0.864,0.0
+Market Watch,,Positive,Market Watch,Outside the Box: 5 reasons why Google will dominate the next generation of gaming,"['GOOG', 'GOOGL']",,-0.128,0.0,0.889,0.111
+CNBC,,Positive,CNBC,Walmart teams up with Google to offer voice-activated grocery shopping,"['GOOG', 'GOOGL', 'WMT']",,0.0,0.0,1.0,0.0
+Zacks Investment Research,"Mon, 01 Apr 2019 19:09:00 -0400",Positive,Zacks Investment Research,"3 Large-Cap Tech Stocks for Growth Investors to Buy: Alphabet, Inc.","['GOOG', 'GOOGL']",,0.3818,0.224,0.776,0.0
+Zacks Investment Research,"Mon, 01 Apr 2019 10:32:00 -0400",Positive,Zacks Investment Research,Google Strengthens Presence in Cuba With ETECSA Team Up,"['GOOG', 'GOOGL']",,0.4588,0.273,0.727,0.0
+CNN,"Mon, 01 Apr 2019 10:21:23 -0400",Neutral,CNN,YouTube could change forever thanks to new EU rules,"['GOOG', 'GOOGL']",,0.4404,0.266,0.734,0.0
+Market Watch,"Mon, 01 Apr 2019 10:20:31 -0400",Positive,Market Watch,Gmail will do even more thinking for you with these 6 new features,"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+The Motley Fool,"Sun, 31 Mar 2019 15:23:00 -0400",Positive,The Motley Fool,3 Must-Own Cloud Stocks for the Next 10 Years: Google,"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+The Motley Fool,"Sat, 30 Mar 2019 13:48:32 -0400",Neutral,The Motley Fool,Better Buy: Baidu vs. Alphabet,"['BIDU', 'GOOG', 'GOOGL']",,0.4404,0.42,0.58,0.0
+The Motley Fool,"Sat, 30 Mar 2019 13:33:38 -0400",Positive,The Motley Fool,Here's Why Amazon and Google Could Dominate Home Security,"['AMZN', 'GOOG', 'GOOGL']",,0.3818,0.353,0.517,0.129
+Seeking Alpha,"Sat, 30 Mar 2019 07:00:13 -0400",Positive,Seeking Alpha,Alphabet: 3 Reasons Why You Should Still Buy The Stock,"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+Zacks Investment Research,"Fri, 29 Mar 2019 17:50:09 -0400",Positive,Zacks Investment Research,Alphabet Gains But Lags Market: What You Should Know,"['GOOG', 'GOOGL']",,-0.3716,0.142,0.586,0.272
+CNBC,"Fri, 29 Mar 2019 17:40:00 -0400",Positive,CNBC,Google parent company Alphabet has more than doubled its money on Lyft in just 17 months,['GOOGL'],,0.0,0.0,1.0,0.0
+24/7 Wall Street,"Fri, 29 Mar 2019 14:57:01 -0400",Positive,24/7 Wall Street,Why Mega-Cap FANG Tech Leaders May Be Offering Investors Incredible Value: Alphabet,"['GOOG', 'GOOGL']",,0.34,0.179,0.821,0.0
+CNBC,"Fri, 29 Mar 2019 12:47:00 -0400",Neutral,CNBC,Google removes anti-gay app that promoted conversion therapy after backlash,"['GOOG', 'GOOGL']",,0.4215,0.237,0.763,0.0
+Fox Business,"Fri, 29 Mar 2019 11:49:22 -0400",Positive,Fox Business,Tech dominates list of most valuable US brands,"['DIS', 'FB', 'FOX', 'GOOGL', 'HD', 'MSFT', 'NFLX', 'T', 'VZ', 'WMT', 'AMZN']",,0.5563,0.434,0.566,0.0
+CNBC,"Fri, 29 Mar 2019 06:01:00 -0400",Negative,CNBC,"What Europe's copyright overhaul means for YouTube, Facebook and the way you use the internet","['FB', 'GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+CNBC Television,,Neutral,CNBC Television,"HUD looking into Twitter, Google ad targeting practices","['GOOG', 'GOOGL', 'TWTR']",,0.0,0.0,1.0,0.0
+CNBC Television,,Negative,CNBC Television,"Big tech has achieved mass accumulation of power, says Arizona AG","['AMZN', 'FB', 'GOOG', 'GOOGL', 'NFLX']",,0.0,0.0,1.0,0.0
+The Motley Fool,,Neutral,The Motley Fool,What Are FAANG Stocks?,"['AAPL', 'AMZN', 'FB', 'GOOG', 'GOOGL', 'NFLX']",,0.0,0.0,1.0,0.0
+CNBC,,Negative,CNBC,Google and Facebook got tricked out of $123 million by a common scam that targets small businesses,"['GOOG', 'GOOGL']",,-0.6486,0.0,0.725,0.275
+CNBC Television,,Negative,CNBC Television,Expert: Facebook and Google under the most regulatory pressure 'and they should be',"['FB', 'GOOG', 'GOOGL']",,-0.3566,0.0,0.829,0.171
+CNBC Television,,Negative,CNBC Television,Europe's big tech fines: Google,"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+Benzinga,,Positive,Benzinga,'Mr. Google' Goes To Washington To Chat With Trump,"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+CNBC,,Positive,CNBC,"Google, GM and other corporate giants form alliance to create a boom in US clean energy","['GM', 'GOOG', 'GOOGL', 'WMT']",,0.7096,0.365,0.635,0.0
+CNBC,"Wed, 27 Mar 2019 19:37:00 -0400",Positive,CNBC,Alphabet-backed Clover Health is cutting tech jobs after realizing it needs more health-care experts,"['GOOG', 'GOOGL']",,-0.128,0.0,0.897,0.103
+CNBC Television,"Wed, 27 Mar 2019 16:56:38 -0400",Positive,CNBC Television,Google: Pleased to have productive conversations with Trump,"['GOOG', 'GOOGL']",,0.4404,0.293,0.707,0.0
+CNBC Television,"Wed, 27 Mar 2019 16:27:25 -0400",Neutral,CNBC Television,Trump meets with Google CEO Sundar Pichai,['GOOGL'],,0.0,0.0,1.0,0.0
+CNBC Television,"Wed, 27 Mar 2019 13:55:26 -0400",Positive,CNBC Television,"Final trades: Morgan Stanley, Alphabet, Conagra, & Chipotle","['CAG', 'CMG', 'GOOG', 'GOOGL', 'MS']",,0.0,0.0,1.0,0.0
+Fox Business,"Wed, 27 Mar 2019 12:55:57 -0400",Negative,Fox Business,EU deals major blow to big tech,"['FB', 'GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+Seeking Alpha,"Wed, 27 Mar 2019 12:49:29 -0400",Neutral,Seeking Alpha,5 Non-Advertising Growth Areas For Google,"['GOOG', 'GOOGL']",,0.3818,0.394,0.606,0.0
+CNBC,"Wed, 27 Mar 2019 12:34:00 -0400",Neutral,CNBC,How this scammer used phishing emails to steal over $100 million from Google and Facebook,"['FB', 'GOOG', 'GOOGL']",,-0.4939,0.0,0.814,0.186
+CNBC,"Wed, 27 Mar 2019 09:34:00 -0400",Positive,CNBC,Google CEO to meet with general who said the company is 'indirectly benefiting the Chinese military',"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+Market Watch,"Wed, 27 Mar 2019 04:12:39 -0400",Negative,Market Watch,"Project Syndicate: Big Tech, after years of manipulating us, is now being surveilled","['GOOG', 'GOOGL']",,-0.3612,0.0,0.828,0.172
+The Motley Fool,,Positive,The Motley Fool,Alphabet Earnings: Mark Your Calendar,"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+CNBC,,Positive,CNBC,Google is getting back into robotics after its last attempt fizzled out,"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+Seeking Alpha,"Mon, 25 Mar 2019 16:59:50 -0400",Positive,Seeking Alpha,Google Aims To Be The Netflix Of Gaming - Here's Why You Should Care,"['GOOG', 'GOOGL']",,0.4939,0.211,0.789,0.0
+The Motley Fool,"Mon, 25 Mar 2019 15:00:00 -0400",Positive,The Motley Fool,False Alarm: Facebook and Google Didn't Lose Market Share in 2018,"['FB', 'GOOG', 'GOOGL']",,-0.257,0.155,0.55,0.295
+Zacks Investment Research,"Mon, 25 Mar 2019 09:58:00 -0400",Positive,Zacks Investment Research,Google to Boost Reach in Online Payment Space With eBay Deal,"['GOOG', 'GOOGL']",,0.4215,0.297,0.703,0.0
+CNET,"Sat, 23 Mar 2019 09:00:11 -0400",Neutral,CNET,Google Stadia might have a different goal than you think,"['GOOG', 'GOOGL']",,0.0,0.0,1.0,0.0
+The Motley Fool,"Wed, 03 Apr 2019 21:13:04 -0400",Positive,The Motley Fool,Justice Department Threatens Academy With Antitrust Suit Over Netflix Feud,['NFLX'],,-0.1531,0.221,0.455,0.325
+Bloomberg Technology,"Wed, 03 Apr 2019 15:45:54 -0400",Negative,Bloomberg Technology,Helen Mirren Joins the War on Netflix,['NFLX'],,-0.5994,0.0,0.606,0.394
+CNBC Television,"Wed, 03 Apr 2019 13:07:38 -0400",Neutral,CNBC Television,S&P 500 at highest level since October 9,"['CVS', 'DIS', 'FB', 'GME', 'MSFT', 'NFLX', 'SIG', 'SMH', 'VIA', 'VIAB']",,0.0,0.0,1.0,0.0
+Market Watch,"Wed, 03 Apr 2019 12:19:09 -0400",Neutral,Market Watch,"Key Words: Helen Mirren: ‘I love Netflix, but f— Netflix’",['NFLX'],,0.3818,0.224,0.776,0.0
+The Motley Fool,"Wed, 03 Apr 2019 12:10:00 -0400",Positive,The Motley Fool,Stock Market News: Netflix's Oscar Hopes Rise,['NFLX'],,0.4215,0.318,0.682,0.0
+CNBC Television,"Wed, 03 Apr 2019 11:06:12 -0400",Positive,CNBC Television,DOJ issues warning about rules change to ban Netflix from Oscars,['NFLX'],,-0.7184,0.0,0.6,0.4
+Fox Business,"Wed, 03 Apr 2019 09:24:16 -0400",Positive,Fox Business,Oscars antitrust concerns,['NFLX'],,0.0,0.0,1.0,0.0
+CNBC,"Wed, 03 Apr 2019 08:57:00 -0400",Negative,CNBC,"Credit Suisse: Don't expect Netflix's Q1 earnings to 'spark joy,' but buy the stock anyway",['NFLX'],,0.3071,0.2,0.8,0.0
+CNBC Television,"Wed, 03 Apr 2019 07:28:47 -0400",Neutral,CNBC Television,Needham's Martin: Retail investors shouldn't have their money in Netflix,['NFLX'],,0.0,0.0,1.0,0.0
+CNBC,"Wed, 03 Apr 2019 06:26:00 -0400",Positive,CNBC,"Banning Netflix from Oscars could break law, Department of Justice warns",['NFLX'],,0.4588,0.246,0.652,0.101
+CNBC Television,,Positive,CNBC Television,Oscar host receives letter from DOJ warning about proposed rule change,['NFLX'],,-0.34,0.0,0.806,0.194
+Market Watch,,Positive,Market Watch,Justice Department reportedly warns Academy against blocking Netflix at the Oscars,['NFLX'],,0.1027,0.221,0.519,0.26
+Market Watch,,Positive,Market Watch,The Ratings Game: Netflix’s stock now a ‘top pick’ at J.P. Morgan,['NFLX'],,0.0,0.0,1.0,0.0
+Seeking Alpha,,Positive,Seeking Alpha,Netflix: Rapid Margin Expansion Being Masked By Marketing Investments,['NFLX'],,0.0,0.0,1.0,0.0
+CNBC,,Positive,CNBC,Netflix is underperforming and JP Morgan calls it a good buying opportunity,['NFLX'],,0.8038,0.507,0.493,0.0
+Zacks Investment Research,"Mon, 01 Apr 2019 10:10:17 -0400",Positive,Zacks Investment Research,Why Netflix Could Beat Earnings Estimates Again,['NFLX'],,0.0,0.0,1.0,0.0
+Zacks Investment Research,"Mon, 01 Apr 2019 08:49:00 -0400",Negative,Zacks Investment Research,Here is Why Both Apple TV+ & Disney+ Should Bother Netflix,['NFLX'],,-0.34,0.0,0.789,0.211
+The Motley Fool,"Sun, 31 Mar 2019 11:47:30 -0400",Positive,The Motley Fool,Disney World's Top Rival Is Already Thinking About Halloween,"['CMCSA', 'NFLX']",,0.2023,0.184,0.816,0.0
+The Motley Fool,"Fri, 29 Mar 2019 21:00:00 -0400",Neutral,The Motley Fool,Better Buy: Disney vs. Netflix,['NFLX'],,0.4404,0.42,0.58,0.0
+Zacks Investment Research,"Fri, 29 Mar 2019 17:24:00 -0400",Positive,Zacks Investment Research,"Netflix Q1 Earnings Preview: International Sales, Subscribers &amp; More",['NFLX'],,0.0,0.0,1.0,0.0
+Fox Business,"Fri, 29 Mar 2019 13:15:45 -0400",Neutral,Fox Business,"Netflix, Amazon leading to messier breakups?",['NFLX'],,0.1779,0.254,0.746,0.0
+Fox Business,"Fri, 29 Mar 2019 11:49:22 -0400",Positive,Fox Business,Tech dominates list of most valuable US brands,"['DIS', 'FB', 'FOX', 'GOOGL', 'HD', 'MSFT', 'NFLX', 'T', 'VZ', 'WMT', 'AMZN']",,0.5563,0.434,0.566,0.0
+Seeking Alpha,"Fri, 29 Mar 2019 09:46:12 -0400",Positive,Seeking Alpha,Why Apple And Netflix Are Feeling The Streaming TV Sting,"['AAPL', 'NFLX']",,0.128,0.143,0.857,0.0
+CNBC Television,,Negative,CNBC Television,"Big tech has achieved mass accumulation of power, says Arizona AG","['AMZN', 'FB', 'GOOG', 'GOOGL', 'NFLX']",,0.0,0.0,1.0,0.0
+The Motley Fool,,Neutral,The Motley Fool,What Are FAANG Stocks?,"['AAPL', 'AMZN', 'FB', 'GOOG', 'GOOGL', 'NFLX']",,0.0,0.0,1.0,0.0
+The Motley Fool,,Positive,The Motley Fool,Netflix's Plan to Win in India: Lower Prices,['NFLX'],,0.3818,0.317,0.5,0.183
+The Motley Fool,,Neutral,The Motley Fool,It's Disney -- Not Apple -- That Netflix Has to Worry About Now,"['AAPL', 'DIS', 'NFLX']",,-0.4404,0.0,0.805,0.195
+Forbes,,Positive,Forbes,A Closer Look At Netflix's Valuation,['NFLX'],,0.0,0.0,1.0,0.0
+Seeking Alpha,,Negative,Seeking Alpha,Netflix: A Once-In-A-Generation Short Opportunity,['NFLX'],,0.4215,0.483,0.517,0.0
+Market Watch,"Mon, 25 Mar 2019 14:15:37 -0400",Positive,Market Watch,"Netflix's stock rallies, erasing previous losses after Apple announces rival streaming",['NFLX'],,-0.4019,0.0,0.787,0.213
+Fox Business,"Mon, 25 Mar 2019 06:52:49 -0400",Neutral,Fox Business,Apple to take on Netflix?,"['AAPL', 'NFLX']",,0.0,0.0,1.0,0.0
+Benzinga,"Sun, 24 Mar 2019 17:14:47 -0400",Positive,Benzinga,Netflix By The Numbers,['NFLX'],,0.0,0.0,1.0,0.0
+The Motley Fool,"Sat, 23 Mar 2019 07:16:00 -0400",Positive,The Motley Fool,Almost Nobody Chooses Streaming Competitors Over Netflix,['NFLX'],,0.0,0.0,1.0,0.0
+CNBC Television,"Fri, 22 Mar 2019 12:32:17 -0400",Positive,CNBC Television,"Netflix probably has too much of a head start on Apple, says analyst",['NFLX'],,0.0,0.0,1.0,0.0
+Market Watch,,Positive,Market Watch,Everything coming to Netflix in April — and what’s leaving,['NFLX'],,0.0,0.0,1.0,0.0
+Seeking Alpha,,Positive,Seeking Alpha,Netflix: Competition Is Welcome,['NFLX'],,0.4588,0.5,0.5,0.0
+CNBC Television,,Positive,CNBC Television,Trading F.A.A.N.G.: 4 buys,"['AMZN', 'FB', 'GOOG', 'GOOGL', 'NFLX']",,0.0,0.0,1.0,0.0
+The Motley Fool,,Positive,The Motley Fool,Netflix Doesn't Have to Worry About Apple -- Yet,['NFLX'],,0.3412,0.231,0.769,0.0
+Forbes,,Positive,Forbes,The Netflix Model Of Board Transparency: Is It Right For Your Company?,['NFLX'],,0.0,0.0,1.0,0.0
+CNBC Television,"Wed, 20 Mar 2019 13:02:35 -0400",Neutral,CNBC Television,"Streaming content battle 'could get messy', says expert","['AAPL', 'DIS', 'FOX', 'NFLX', 'FOXA']",,-0.3818,0.0,0.729,0.271
+Benzinga,"Wed, 20 Mar 2019 11:52:59 -0400",Positive,Benzinga,4 Reasons RBC Continues To Love Netflix's Stock,['NFLX'],,0.6369,0.412,0.588,0.0
+CNBC,"Wed, 20 Mar 2019 11:00:00 -0400",Positive,CNBC,"Netflix drops 'Stranger Things' season 3 trailer, teasing new monster, more '80s nostaglia",['NFLX'],,-0.0772,0.0,0.894,0.106
+Market Watch,"Wed, 20 Mar 2019 10:24:56 -0400",Positive,Market Watch,"Netflix just dropped the ‘Stranger Things’ Season 3 trailer, and it’s already been watched 3.1 million times",['NFLX'],,0.0,0.0,1.0,0.0
+CNBC Television,,Negative,CNBC Television,"As Apple enters the streaming wars, will Netflix be dethroned?","['AAPL', 'NFLX']",,-0.5574,0.0,0.714,0.286
+The Motley Fool,,Negative,The Motley Fool,Netflix Execs Welcome Competition From Apple While Throwing a Little Shade,['NFLX'],,0.4588,0.25,0.75,0.0
+CNBC Television,,Neutral,CNBC Television,"Final trades: CVS Health, Facebook, Netflix, & a Mexico play","['CVS', 'EWW', 'FB', 'NFLX']",,0.34,0.255,0.745,0.0
+CNBC,,Negative,CNBC,Netflix says it will not join Apple TV service,['NFLX'],,-0.2235,0.0,0.809,0.191
+Market Watch,,Negative,Market Watch,"Apple streaming service won't offer Netflix subscription, Hastings says","['AAPL', 'NFLX']",,0.0,0.0,1.0,0.0
+Benzinga,,Negative,Benzinga,Netflix CEO Says Company Decided 'Not To Integrate' With Apple,['NFLX'],,0.0,0.0,1.0,0.0
+The Motley Fool,,Negative,The Motley Fool,Calls to Break Up FAANG -- Except This One,"['AAPL', 'AMZN', 'FB', 'GOOG', 'GOOGL', 'NFLX']",,0.0,0.0,1.0,0.0
